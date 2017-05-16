@@ -1,4 +1,4 @@
-# burger-joint
+# backend
 
 > 
 
@@ -14,7 +14,7 @@ Getting up and running is as easy as 1, 2, 3.
 2. Install your dependencies
 
     ```
-    cd path/to/burger-joint; npm install
+    cd path/to/backend; npm install
     ```
 
 3. Start your app

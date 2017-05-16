@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "../public/",
+  "paginate": {
+    "default": 10,
+    "max": 50
+  },
+  "postgres": "postgres://qglkvcbbjbrczy:30a922d4d786cf90ebbab98d7fe1e8c8453bdc0c01759c31ce269b43d7895d4e@ec2-23-21-224-199.compute-1.amazonaws.com:5432/d5n6oao74fjkds"
+}
